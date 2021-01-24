@@ -1,9 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Login</string>
+    <string name="_logo">Logo</string>
 
-
-        <string name="sign_in_btn">Sign In</string>
-<string name="sign_up_btn">Sign Up</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="sign_up_btn">Sign Up</string>
     <string name="sign_up_prompt">New to Us?</string>
     <string name="remember_me">Remember me</string>
     <string name="username">username</string>
@@ -24,16 +24,13 @@
     <string name="_2">2</string>
     <string name="_4">4</string>
     <string name="_3">3</string>
-    <string name="todo">TODO</string>
     <string name="mountain">Mountain</string>
     <string name="sending_failed">SENDING FAILED</string>
     <string name="text_window">Text window</string>
-    <string name="choose_which_skill_set_you_d_like_to_learn">Titlebr</string>
-    <string name="front_end_development">frontendbtn</string>
-    <string name="back_end_developmnt">bkendbtn</string>
-    <string name="full_stack_developer">fullstkbtn</string>
-    <string name="action_settings">actsettings</string>
-    <string name="sending_failed">SENDING FAILED</string>
+    <string name="todo">TODO</string>
+    <string name="new_message">New Message!</string>
     <string name="sending_failed_computer">sending failed computer</string>
-
+    <string name="sign_up">Sign up!</string>
+    <string name="log_in">log_in</string>
+    <string name="submit">submit</string>
 </resources>
